@@ -31,8 +31,8 @@ else:
     data = pd.DataFrame(columns=['plaque', 'zone', 'page', 'à verifier'])
 ```
 
-You might also need to changes the parameters from Tesseract (line 313). The command `tessarct --help-extra` 
-might be handy.
+You might also need to changes the parameters from Tesseract (line 310 to 313). The command `tesseract --help-extra` 
+might come in handy.
 
 Eventually, you can execute the program with the following command :
 

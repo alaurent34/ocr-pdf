@@ -1,0 +1,7 @@
+!pdf
+pdf/*
+images_pdf
+__pycache__
+
+data_extracted.csv
+data_extracted.xlsx
